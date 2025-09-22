@@ -1,11 +1,11 @@
 ---
-title: "Quick Start"
-date: "2025-09-22"
+title: "Analysis"
+date: "2024-03-12"
 parent: null
-order: 2
-author: Shojib H. Ruhan
-category: 'quick-start
-tags: ["intro", "getting started"]
+order: 4
+author: Brian C
+category: analytics
+tags: ["technology", "analytics"]
 ---
 
 ## Get Started

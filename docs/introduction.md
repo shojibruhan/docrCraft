@@ -1,8 +1,11 @@
 ---
-title: "Introduction to NextJS"
-date: "2025-09-22"
-author: Shojib H. Ruhan
-tags: ["intro", "getting started"]
+title: "Introduction"
+date: "2024-02-12"
+parent: null
+order: 1
+author: Alex B
+category: General
+tags: ["intro", "getting-started"]
 ---
 
 ## API Documentation
